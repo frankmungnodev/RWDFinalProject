@@ -1,0 +1,19 @@
+.half-opacity {
+  color: rgb(139, 139, 139);
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.green {
+  color: green;
+}
+
+.display {
+  display: block !important;
+}
