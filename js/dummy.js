@@ -157,7 +157,7 @@ export const posts = [
 ];
 
 export let user = {
-  email: 'animeworld065@gmail.com',
+  email: 'testing123@gmail.com',
   password: 'asdf',
 };
 
