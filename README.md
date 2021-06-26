@@ -6,13 +6,11 @@ This project is cloning [Medium](https://www.medium.com 'Medium website') websit
 
 ## Clickable Buttons
 
-```
-* Signin
-* Get Started
-* Post Topics
-* Search if logged in
-* Logout if logged in
-```
+- Signin
+- Get Started
+- Post Topics
+- Search if logged in
+- Logout if logged in
 
 ## Login Info
 
@@ -30,6 +28,4 @@ Using [Xampp](https://www.apachefriends.org/download.html 'XAMPP Download'),
 Install it and put your project folder unders `C:\xampp\htdocs` in windows.
 
 -Method Two
-Use [Live Server Extensions](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer 'Download Live Server') in VSCode.
-
-After install right click on index.html and choose to open with live server.
+Use [Live Server Extensions](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer 'Download Live Server') in VSCode. After install right click on index.html and choose to open with live server.
